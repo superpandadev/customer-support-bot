@@ -1,4 +1,4 @@
-# The Open Source AI Agent Application Framework
+# Customer Support Bot
 ## Connect LLMs to your existing application focused on your business
 
 [![Discord](https://img.shields.io/discord/1106946823282761851?label=Discord)](https://discord.com/channels/1106946823282761851/1106947212459642991)
